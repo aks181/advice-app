@@ -1,3 +1,13 @@
+<h2>Things to learn:</h2>
+<ul>
+    <li>Basic React</li>
+    <li>Class Based components</li>
+    <li>Axios Request (promise style)</li>
+    <li>Netlify deployment</li>
+    <li>Component CSS</li>
+    <li>3D CSS Animation</li>
+</ul>
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
